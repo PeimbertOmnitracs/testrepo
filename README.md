@@ -21,3 +21,6 @@ not accepting the DP-21 merge, change again
 Squash and merge- 
 1st commit
 2nd commit
+
+
+New change to the master branch without passing for development (like a hotfix)
