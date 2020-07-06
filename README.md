@@ -16,3 +16,8 @@ New modification to test the second release
 
 Adding the DP-21 story
 not accepting the DP-21 merge, change again
+
+
+Squash and merge- 
+1st commit
+2nd commit
