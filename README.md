@@ -29,4 +29,4 @@ New change to the master branch without passing for development (like a hotfix)
 
 Change for the DP-28 story
 Another change for the previous story 
-move DP-28 to ready for staging
+move DP-28 to ready for staging but with a Pull request, never commit straight to master
