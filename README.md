@@ -34,7 +34,10 @@ move DP-28 to ready for staging but with a Pull request, never commit straight t
 
 #Update on the readme file for the SW-37 test integration of Jira with Github   
 
+-someone did a change in master, this shoudlnt happen
+
 # a new change for the SW-37-v2 again and again
 
 Someone made a change into develop
+
 
