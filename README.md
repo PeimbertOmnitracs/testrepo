@@ -12,6 +12,6 @@ SXW-100
 
 
 
-
-
+edit of the DP-32
+another edit for the DP-32
 
