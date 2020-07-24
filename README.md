@@ -20,3 +20,4 @@ change of DP-24
 
 some new edit 
 
+edit of the DP-24 readme file
