@@ -27,3 +27,5 @@ edit of the DP-24 readme file
 Feature 1
 
 Feature 3
+
+Feature 6
